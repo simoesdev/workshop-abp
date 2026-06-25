@@ -1,4 +1,4 @@
-# Workshop Algarve Business Point - Assistentes Virtuai e ChatGPT
+# Workshop Assistentes Virtuais e ChatGPT
 
 Cheatsheet de “codes” e exemplos de prompts em português de Portugal para empreendedores, pequenos empresários, freelancers e profissionais que queiram utilizar LLMs, como ChatGPT, Claude, Perplexity, Copilot ou Gemini, no dia a dia do seu negócio.
 
